@@ -1,30 +1,18 @@
 # Site
-title:              Massively
-bio:                'Jekyll version of the Massively theme by HTML5UP'
-description:        "Jekyll version of the Massively theme by HTML5UP"
+title:              Playing with Python
 locale:             en_US
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "playingwpython.github.io" # the base hostname & protocol for your site
 
 # Comments
 disqus_shortname:   default
 
 # Social
-analytics-id:       "default"
+analytics-id:       "G-BNKFQ1FEJV"
 twitter:            default
 facebook:           default
 instagram:          default
 github:             default
-
-# personal
-location:           Los Angeles, CA
-phone:              310-318-5555
-email:              info@default.com # change this to your email to receive free emails for your contact submissions via Slapform.com
-
-# Other
-background_image:   /images/bg.jpg
-# Tip: The color palette and other styles can be configured in /_sass/lib/_vars.scss
-slapform_thankyou_page: /thank-you
 
 defaults:
 - scope:
